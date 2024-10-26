@@ -123,3 +123,6 @@ int main() {
 
 # OUTPUT:
 ![image](https://github.com/user-attachments/assets/5ec807fc-778d-44e5-bba5-3dbc7e5d240d)
+
+# RESULT:
+Thus the Diffie-Hellman key exchange algorithm had been successfully implemented using C
